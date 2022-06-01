@@ -1,0 +1,1 @@
+https://nbviewer.jupyter.org/github/vee-upatising/Brain-Tumor-MRI-CNN/blob/master/Brain%20Tumor%20CNN.ipynb
